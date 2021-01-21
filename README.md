@@ -1,2 +1,2 @@
 # ping-code-academy-projects
-pingping's code academy projects. from 1st Dec 2020
+Some of Judy Ping McCormick's Code Academy Projects,  from 1st Dec 2020. 
